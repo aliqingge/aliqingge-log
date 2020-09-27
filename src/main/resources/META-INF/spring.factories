@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.aliqingge.log.processor.LogProcessor,\
+  com.aliqingge.log.aspect.LogAspect,\
+  com.aliqingge.log.collector.LogCollectorExecutor,\
+  com.aliqingge.log.config.ExecutorConfiguration
